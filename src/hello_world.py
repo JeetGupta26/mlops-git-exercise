@@ -2,7 +2,7 @@ class HelloWorld:
     @staticmethod
     def main():
         print("Hello from GitHub!")
-        print("Change made on GitHub")
+        print("This change is from GitHub")
 
 if __name__ == "__main__":
     HelloWorld.main()
